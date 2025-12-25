@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Card](https://githubcard.com/SilkageNet.svg)
-
+![GitHub Card](https://githubcard.com/SilkageNet.svg?d=8pmaHkeF)
