@@ -12,7 +12,7 @@ I build trading and instant messaging systems, primarily in Go. I take products 
 
 ## 🧰 Technical scope
 
-- **Languages & ecosystems:** Go (primary) · TypeScript across frontend, backend, and tooling · C# with .NET and Unity · Python · Java
+- **Core stack:** Go · TypeScript · C#/.NET/Unity · Python · Java
 - **Backend & systems:** Service architecture, distributed systems, real-time messaging, API and protocol design
 - **Infrastructure:** Linux, containers, cloud platforms, and CI/CD
 - **Frontend & tooling:** Modern web applications, UI engineering, developer tooling, and agent integrations
